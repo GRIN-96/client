@@ -1,0 +1,25 @@
+[debug] [2022-12-03T08:33:30.908Z] ----------------------------------------------------------------------
+[debug] [2022-12-03T08:33:30.910Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\playdata\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-12-03T08:33:30.910Z] CLI Version:   11.16.1
+[debug] [2022-12-03T08:33:30.910Z] Platform:      win32
+[debug] [2022-12-03T08:33:30.910Z] Node Version:  v18.12.0
+[debug] [2022-12-03T08:33:30.911Z] Time:          Sat Dec 03 2022 17:33:30 GMT+0900 (대한민국 표준시)
+[debug] [2022-12-03T08:33:30.911Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-03T08:33:30.918Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-03T08:33:30.919Z] > authorizing via signed-in user (bnmnil96@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Dev\04.front\04.react\CHAT.APP\client
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
